@@ -1,0 +1,6 @@
+.metadata
+bin/
+tmp/
+
+#Eclipse Core
+.project
